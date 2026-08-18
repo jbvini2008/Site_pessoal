@@ -1,6 +1,6 @@
 # Site_pessoal
 
-## Secoes do Site
+## Seções do Site
 
 ### 1. Hero Section
 - Titulo principal com efeito gradiente animado
